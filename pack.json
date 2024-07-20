@@ -1,0 +1,10 @@
+{
+  "name": "Fortnite_OG_STW_Theme",
+  "description": "Audio is from Fortnite Save The World Alpha.",
+  "author": "ASMNESS",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
