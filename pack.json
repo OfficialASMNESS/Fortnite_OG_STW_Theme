@@ -1,9 +1,0 @@
-{
-  "name": "Fortnite OG STW Theme",
-  "description": "Audio is from Fortnite Save The World Alpha.",
-  "author": "ASMNESS",
-  "version": "v1.0",
-  "manifest_version": 1,
-  "music": true,
-  "ignore": ["intro_music.mp3"],
-}
